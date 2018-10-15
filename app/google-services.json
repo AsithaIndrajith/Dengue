@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607639649061",
+    "firebase_url": "https://dengue-20fc0.firebaseio.com",
+    "project_id": "dengue-20fc0",
+    "storage_bucket": "dengue-20fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607639649061:android:cecddaffcc4442c3",
+        "android_client_info": {
+          "package_name": "com.example.asitha.dengue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607639649061-0n47f83ss4kd2kbjm1lecpg72bgkb7on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asitha.dengue",
+            "certificate_hash": "ef6db58f45946c97d6f6e9e2e0601730d8248b8b"
+          }
+        },
+        {
+          "client_id": "607639649061-oaosqgo5872vndi0f2c83u5r3gc5oe0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk20K9XdZRLusPNyTh7qwV4ZOAYrHZssw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607639649061-oaosqgo5872vndi0f2c83u5r3gc5oe0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
